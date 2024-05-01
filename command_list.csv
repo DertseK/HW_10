@@ -44,3 +44,19 @@
    44  git merge develop
    45  git log
    46  history > command_list.csv
+   47  git status
+   48  git add .
+   49  git commit -m 5
+   50  git config --global user.name "DertseK"
+   51  git push
+   52  CCCCCCCCCCCCCCCCCCCCCCCC
+   53  git push
+   54  vim develop_test.txt
+   55  git add .
+   56  git commit -m "done zminy"
+   57  git log
+   58  git touch
+   59  git push
+   60  history > command_list.csv
+   61  history > command_list.csv\
+   62  history > command_list.csv
